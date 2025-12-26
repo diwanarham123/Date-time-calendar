@@ -33,4 +33,5 @@ def rental_car_cost(days):
     print("Total cost of trip:",trip_cost("Los Angeles",7,500))
 
     print(trip_cost("Tampa",6,500))
+
         
